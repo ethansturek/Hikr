@@ -1,5 +1,5 @@
 # Hikr - Prototype
-This is a high fidelity prototype for Hikr. 
+This is a high fidelity prototype for Hikr. Hikr is an app designed to give 
 ## Functionality 
   - Make unique account
   - View map with hiking trail pins
@@ -12,3 +12,4 @@ This is a high fidelity prototype for Hikr.
  - Database implementation to store global information (trails, account information)
  - Review system for users to rate their favorite trails
  - Favorite button to save trails for later
+## Screenshots
