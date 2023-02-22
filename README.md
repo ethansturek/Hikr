@@ -19,3 +19,18 @@ This is a high fidelity prototype for Hikr. Hikr is an app designed to give user
 <img src="trail&#32;info.jpg" width= "25%" height = "25%"> |
 <img src="Add&#32;trail.jpg" width= "25%" height = "25%"> |
 <img src="Search&#32;1&#32;option.jpg" width= "25%" height = "25%">
+## **Installation Instructions**
+### **System Requirements:**
+- Android device with an internet connection
+
+### **Installation:**
+1. Allow your browser to install unknown apps. For additional help on this, follow these [instructions](https://www.lifewire.com/install-apk-on-android-4177185)
+1. Download the APK file from the APK folder
+3. Enjoy!
+
+### **Running the application**
+- Create an account to access user functionality.
+    - Type in a username and password and press create account
+    - To view admin, type in the following credentials
+        - Username: admin
+        - Password: pass
